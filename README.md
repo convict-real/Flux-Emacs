@@ -5,7 +5,7 @@
 [Documentation] • [FAQ]
 
 ![Made with Flux Emacs](https://img.shields.io/badge/Version-1.0.0-lightblue.svg?style=flat-square&logoColor=white)
-![Supports Emacs 24.5 - 29](https://img.shields.io/badge/Supports-Emacs_24.5--29-lightblue.svg?style=flat-square&logo=GNU%20Emacs&logoColor=white)
+![Supports Emacs 24.5+](https://img.shields.io/badge/Supports-Emacs_24.5+-lightblue.svg?style=flat-square&logo=GNU%20Emacs&logoColor=white)
 
 </div>
 
