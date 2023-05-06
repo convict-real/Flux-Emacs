@@ -79,7 +79,6 @@ Although Flux is a result of my passion and dedication to Emacs, as a single per
 [contribute]: docs/contributing.org
 [documentation]: docs/index.org
 [faq]: https://github.com/hlissner/doom-emacs/blob/master/docs/faq.org
-[getting-started]: docs/getting_started.org
 [install]: docs/getting_started.org#install
 [backtrace]: docs/getting_started.org#how-to-extract-a-backtrace-from-an-error
 [configuration]: docs/getting_started.org#configuring-doom
