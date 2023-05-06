@@ -13,6 +13,7 @@
 
 ### Table of Contents
 - [Introduction](#introduction)
+- [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Install](#install)
 - [Getting help](#getting-help)
@@ -29,6 +30,12 @@ These guiding principles inform the design of Flux:
 + **Respect for user preferences.** Flux believes that users know best and respects their preferences. Flux does not automatically install system dependencies, leaving it up to users to install them as needed. The "Flux Doctor" tool can assist users in identifying and resolving any missing dependencies.
 + **Ease of use and convenience.** Flux includes a built-in installer that simplifies the installation and setup process for new users, and also provides a comprehensive documentation system.
 
+
+# Features
++ A minimalistic, yet modern interface, inspired by other modern text editors.
++ Curated and sane defaults for many packages and Emacs itself.
++ A modular organizational structure for separating concerns in your config.
++ A never seen before, install and uninstall package command, built straight into Emacs, without even having to open your config.
 
 # Prerequisites
 + Git
