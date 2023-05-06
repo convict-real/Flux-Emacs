@@ -78,14 +78,7 @@ Although Flux is a result of my passion and dedication to Emacs, as a single per
 
 [contribute]: docs/contributing.org
 [documentation]: docs/index.org
-[faq]: https://github.com/hlissner/doom-emacs/blob/master/docs/faq.org
-[install]: docs/getting_started.org#install
-[backtrace]: docs/getting_started.org#how-to-extract-a-backtrace-from-an-error
-[configuration]: docs/getting_started.org#configuring-doom
-[package-management]: docs/getting_started.org#package-management
-[bin/doom]: docs/getting_started.org#the-bindoom-utility
-[common-mistakes]: docs/getting_started.org#common-mistakes-when-configuring-doom-emacs
+[faq]: docs/faq.org
 [modules]: docs/modules.org
 [popup-system]: modules/ui/popup/README.org
-
 [gnu emacs]: https://www.gnu.org/software/emacs/
