@@ -50,12 +50,6 @@ Emacs is no journey of a mere thousand miles. You _will_ run into problems and
 mysterious errors. When you do, here are some places you can look for help:
 
 + [Our documentation][documentation] covers many use cases.
-  + [The Configuration section][configuration] covers how to configure Flux and
-    its packages.
-  + [The Package Management section][package-management] covers how to install
-    and disable packages.
-  + [This section][common-mistakes] lists some common configuration mistakes new
-    users make, when migrating a config from another distrobution or their own.
   + Your issue may be documented in the [FAQ].
 + Check out the [FAQ] or [Discourse FAQs][discourse-faq], in case your question
   has already been answered.
