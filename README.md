@@ -59,8 +59,7 @@ mysterious errors. When you do, here are some places you can look for help:
 
 + [Our documentation][documentation] covers many use cases.
   + Your issue may be documented in the [FAQ].
-+ Check out the [FAQ] or [Discourse FAQs][discourse-faq], in case your question
-  has already been answered.
++ Check out the [FAQ] in case your question has already been answered.
 + Search [Flux's issue tracker](https://github.com/convict-real/Flux-Emacs/issues) in case your issue was already
   reported.
 
