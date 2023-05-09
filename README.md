@@ -25,17 +25,18 @@ Flux is an excellent configuration framework for [GNU Emacs] that can help strea
 
 These guiding principles inform the design of Flux:
 
-+ **Speed and efficiency first.** Flux is designed to prioritize startup and run-time performance, ensuring a fast and smooth experience for users. Packages are optimized for speed and lazy loading to enhance the workflow.
++ **Speed and efficiency first.** Flux is designed to prioritize startup and run-time performance, ensuring a fast and smooth experience for users, even greater than that of Sublime Text and even Zed. Packages are optimized for speed and lazy loading to enhance the workflow.
 + **Flexibility and extensibility.** Flux can be used as a foundation for users' own Emacs configuration or as a resource for learning more about Emacs. Flux's modular design and built-in package management system make it easy to add or remove packages and customize Emacs to users' specific needs.
-+ **Respect for user preferences.** Flux believes that users know best and respects their preferences. Flux does not automatically install system dependencies, leaving it up to users to install them as needed. The "Flux Doctor" tool can assist users in identifying and resolving any missing dependencies.
++ **Respect for user preferences.** Flux believes that users know best and respects their preferences. Flux does not automatically install system dependencies, leaving it up to users to install them as needed.
 + **Ease of use and convenience.** Flux includes a built-in installer that simplifies the installation and setup process for new users, and also provides a comprehensive documentation system.
++ **Powerful IDE with unique packages.**  Flux is not just another text editor, it's a powerful IDE that provides a unique set of packages and features that sets it apart from other Emacs distributions. With Flux, you can leverage packages specifically designed for web development, data science, and more. Experience an unparalleled workflow that other editors simply can't match.
 
 
 # Features
 + A minimalistic, yet modern interface, inspired by other modern text editors.
 + Curated and sane defaults for many packages and Emacs itself.
 + A modular organizational structure for separating concerns in your config.
-+ A never seen before, install and uninstall package command, built straight into Emacs, without even having to open your config.
++ An install and uninstall package command, built straight into the application.
 
 # Prerequisites
 + Git
