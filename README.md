@@ -25,18 +25,12 @@ Flux is an excellent configuration framework for [GNU Emacs] that can help strea
 
 These guiding principles inform the design of Flux:
 
-+ **Speed and efficiency first.** Flux is designed to prioritize startup and run-time performance, ensuring a fast and smooth experience for users, even greater than that of Sublime Text and even Zed. Packages are optimized for speed and lazy loading to enhance the workflow.
-+ **Flexibility and extensibility.** Flux can be used as a foundation for users' own Emacs configuration or as a resource for learning more about Emacs. Flux's modular design and built-in package management system make it easy to add or remove packages and customize Emacs to users' specific needs.
-+ **Respect for user preferences.** Flux believes that users know best and respects their preferences. Flux does not automatically install system dependencies, leaving it up to users to install them as needed.
-+ **Ease of use and convenience.** Flux includes a built-in installer that simplifies the installation and setup process for new users, and also provides a comprehensive documentation system.
-+ **Powerful IDE with unique packages.**  Flux is not just another text editor, it's a powerful IDE that provides a unique set of packages and features that sets it apart from other Emacs distributions. With Flux, you can leverage packages specifically designed for web development, data science, and more. Experience an unparalleled workflow that other editors simply can't match.
++ **Beyond the capabilities of a traditional IDE.** Flux is not just an IDE, it's a next-generation coding platform that pushes the boundaries of what an IDE can do. With Flux, you get access to a powerful suite of tools and packages that are simply not available in traditional IDEs.
++ **Unmatched power and performance.** Flux's cutting-edge technology provides unparalleled power and performance. With optimized packages and lazy loading, you'll experience lightning-fast coding that simply isn't possible with other IDEs.
++ **Limitless customization and extensibility.** Flux's modular design and built-in package management system make it easy to customize your environment to suit your specific needs. With Flux, you can extend your coding capabilities beyond what you thought was possible, creating a truly unique and tailored coding experience.
++ **User-focused design philosophy.** Flux puts the user at the center of everything it does. Flux's flexible design and respect for user preferences mean you can create a coding environment that is perfectly suited to your style and workflow.
++ **Comprehensive documentation and support.**  Flux's built-in installer and comprehensive documentation system make it easy for new users to get started, while advanced users can take advantage of the extensive support available from the Flux community. With Flux, you're never alone in your coding journey.
 
-
-# Features
-+ A minimalistic, yet modern interface, inspired by other modern text editors.
-+ Curated and sane defaults for many packages and Emacs itself.
-+ A modular organizational structure for separating concerns in your config.
-+ An install and uninstall package command, built straight into the application.
 
 # Prerequisites
 + Git
