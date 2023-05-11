@@ -33,9 +33,9 @@ These guiding principles inform the design of Flux:
 
 
 # Prerequisites
-+ Git
 + Emacs 24.5+
-+ Any Linux distribution or Windows 7+
++ Git (Optional, but needed for magit)
++ Windows 7+ (If you are using windows)
 
 
 # Install
